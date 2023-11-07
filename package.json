@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Christelmarita/joker/issues"
   },
-  "homepage": "https://github.com/Christelmarita/joker#readme"
+  "homepage": "https://github.com/Christelmarita/joker#readme",
+  "dependencies": {
+    "one-liner-joke": "^1.2.2"
+  }
 }
